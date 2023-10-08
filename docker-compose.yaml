@@ -37,7 +37,7 @@ services:
 
   transmission:
     image : jaymoulin/transmission:3.00-1.6.1
-    container_name: transmission
+    container_name: transmission2
     environment:
       - PUID=1000
       - PGID=1000
