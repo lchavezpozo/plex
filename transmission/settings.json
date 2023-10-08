@@ -43,7 +43,7 @@
     "rpc-authentication-required": true,
     "rpc-bind-address": "0.0.0.0",
     "rpc-enabled": true,
-    "rpc-host-whitelist": "",
+    "rpc-host-whitelist": "127.0.0.1,192.168.18.*",
     "rpc-host-whitelist-enabled": true,
     "rpc-password": "{05471d53bb5f1fba6e51a1889e814c0c1c224a29HJiZsRME",
     "rpc-port": 9091,
